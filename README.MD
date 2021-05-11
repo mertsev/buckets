@@ -14,6 +14,8 @@ bucket-back - backend
 ### `npm start`
 
 Open http://localhost:3000/
+Select the amount
+Press "Request answer" button
 
 ## Available Scripts For backend
 
